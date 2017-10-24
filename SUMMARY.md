@@ -9,9 +9,10 @@
 * [What do all of those symbols, numbers, and letters in my variant name mean?](what-do-all-of-those-symbols-numbers-and-letters-in-my-variant-name-mean.md)
   * [Tell me more about the coordinate-naming systems for variants](what-do-all-of-those-symbols-numbers-and-letters-in-my-variant-name-mean/tell-me-more-about-the-coordinate-naming-systems-for-variants.md)
 * [How can a genetic test help me understand my cancer risk or diagnosis?](first-question.md)
-  * Tell me more about genomic sequencing and genetic tests
+  * [Tell me more about genomic sequencing and genetic tests](first-question/tell-me-more-about-genomic-sequencing-and-genetic-tests.md)
 * [What biological role do BRCA-1 and BRCA-2 genes have in cancer risk?](second-question.md)
 * [Why does my family history matter to my risk of hereditary cancer?](why-does-my-family-history-matter-to-my-risk-of-hereditary-cancer.md)
-  * Tell me more about inheritance of genes and variants
+  * [Tell me more about inheritance of genes and variants](why-does-my-family-history-matter-to-my-risk-of-hereditary-cancer/tell-me-more-about-inheritance-of-genes-and-variants.md)
 * [Why do variant interpretations change?](why-do-variant-interpretations-change.md)
+* [Where can I find more resources?](where-can-i-find-more-resources.md)
 
