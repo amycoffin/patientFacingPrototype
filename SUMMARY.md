@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Welcome](README.md)
 * [How do I search for my variant on BRCA Exchange?](how-do-i-search-for-my-variant-on-brca-exchange.md)
   * [Tell me more about Variant Details](how-do-i-search-for-my-variant-on-brca-exchange/tell-me-more-about-variant-details.md)
 * [What is a pathogenic variant?](what-is-a-pathogenic-variant.md)
