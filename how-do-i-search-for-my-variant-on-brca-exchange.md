@@ -5,7 +5,7 @@ Searching for your variant on BRCA Exchange can allow you to obtain up-to-date, 
 
 Unlike ClinVar and other variant databases you might have seen before, BRCAExchange only contains BRCA-1 and BRCA-2 variants. You can type in the variant name directly from your genetic test result. This name can look a number of different ways \[\[LIST\]\], but usually takes the form of letter-number-letter, or some combination of letters and numbers strung together. You can type this name, such as c.3916G&gt;A, into the search box, click the magnifying glass, and find the database entry:
 
-![](/assets/BRCAExSearchResult.png)Once you click any field in the data entry \(i.e. its name\), you will be taken to its “Variant Detail Page,” which contains 3 tiles: 
+![](/assets/BRCAExSearchResult.png)Once you click any field in the data entry \(i.e. its name\), you will be taken to its “Variant Detail Page,” which contains 3 tiles:
 
 1. “Variant Nomenclature” tile 
 2. “Clinical Significance” tile
@@ -18,8 +18,6 @@ More information and resources on the clinical signficance of your variant can b
 * {What is a pathogenic variant}
 * {What is a benign variant?}
 * {What is a Variant of Unknown Significance?}
-
-
 
 
 
