@@ -4,5 +4,5 @@ To give an analogy, UC Santa Cruz is located at 1156 High St. Santa Cruz, CA. Th
 
 Having consistent ways of naming variants helps make genetic tests more reliable by ensuring that data is easier to manage. This standard format helps computer programs that aid analysis be written more easily. Although two unrelated people might have very different qualities, they may both have the same variant on the BRCA-1 or BRCA-2 gene. Being able to connect these two people through a variant that they have in common, and assessing their familial and clinical histories of cancer, helps scientists connect the dots about cancer risk associated with that variant.
 
-{Tell me more about the coordinate-naming system for variants}
+{[Tell me more about the coordinate-naming system for variants](/what-do-all-of-those-symbols-numbers-and-letters-in-my-variant-name-mean/tell-me-more-about-the-coordinate-naming-systems-for-variants.md)}
 
