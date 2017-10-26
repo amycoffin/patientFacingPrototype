@@ -5,7 +5,7 @@
   * [Tell me more about Variant Details](how-do-i-search-for-my-variant-on-brca-exchange/tell-me-more-about-variant-details.md)
 * [What is a pathogenic variant?](what-is-a-pathogenic-variant.md)
 * [What is a benign variant?](what-is-a-benign-variant.md)
-* [What is a Variant of Unknown Significance?](what-is-a-variant-of-unknown-significance.md)
+* [What is a Variant of Unknown Significance \(VUS\)?](what-is-a-variant-of-unknown-significance.md)
 * [What process determines that my variant is pathogenic, VUS, or benign?](what-process-determines-that-my-variant-is-pathogenic-vus-or-benign.md)
 * [What do all of those symbols, numbers, and letters in my variant name mean?](what-do-all-of-those-symbols-numbers-and-letters-in-my-variant-name-mean.md)
   * [Tell me more about the coordinate-naming systems for variants](what-do-all-of-those-symbols-numbers-and-letters-in-my-variant-name-mean/tell-me-more-about-the-coordinate-naming-systems-for-variants.md)

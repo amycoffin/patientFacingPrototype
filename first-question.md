@@ -1,4 +1,6 @@
-A &lt;genetic test&gt; uses &lt;genomic sequencing&gt; to ‘read’ your DNA. Your chromosomes are made up of DNA, and contain your genes. Each cell has an almost identical collection of all of your DNA, which can be called your &lt;genome&gt;. Four subunits, called nucleotides, are repeated in long, unique sequences, and make up the large DNA molecule. When we ‘read’ DNA sequences, these nucleotide building blocks are represented as ‘A’, ‘T’,‘C’, and ‘G’ so that scientists and their computers can analyze DNA data more easily. DNA analysis, used by genetic tests, can provide information about your risk of hereditary cancer. Here is what raw genomic data looks like: 
+## How can a genetic test help me understand my cancer risk or diagnosis?
+
+A &lt;genetic test&gt; uses &lt;genomic sequencing&gt; to ‘read’ your DNA. Your chromosomes are made up of DNA, and contain your genes. Each cell has an almost identical collection of all of your DNA, which can be called your &lt;genome&gt;. Four subunits, called nucleotides, are repeated in long, unique sequences, and make up the large DNA molecule. When we ‘read’ DNA sequences, these nucleotide building blocks are represented as ‘A’, ‘T’,‘C’, and ‘G’ so that scientists and their computers can analyze DNA data more easily. DNA analysis, used by genetic tests, can provide information about your risk of hereditary cancer. Here is what raw genomic data looks like:
 
 ![](/assets/FASTQScreenshot.png)
 
@@ -6,7 +8,7 @@ A genetic test is one of the many different ways to be screened and tested for c
 
 If you are concerned about your risk, a genetic test can rule out the possibility of hereditary cancer. If you have a cancer diagnosis, a genetic test can help your doctor make treatment decisions. Genetic tests ultimately help you and your doctor account for, or rule out, BRCA-1 and BRCA-2 gene defects impacting your health.
 
-Should I include a note about BRCA Exchange'S contributions here?
+\[Should I include a note about BRCA Exchange's contributions here?\]
 
-{Resources for understanding test results}
+More comprehensive resources for understanding test results can be found [here](/where-can-i-find-more-resources.md)
 
