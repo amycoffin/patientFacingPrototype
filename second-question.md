@@ -8,5 +8,5 @@
 
 -Perhaps use this quote as a jumping off point, and then just bring back some of the spelling metaphors, expand a bit on same points paragraph makes but using variant language.
 
--trash the photocopy metaphor, leave that for sequencing
+-trash the photocopy metaphor for making proteins, leave that for sequencing
 
