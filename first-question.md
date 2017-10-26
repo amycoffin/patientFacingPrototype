@@ -10,5 +10,7 @@ If you are concerned about your risk, a genetic test can rule out the possibilit
 
 \[Should I include a note about BRCA Exchange's contributions here?\]
 
+[Tell me more about genomic sequencing and genetic tests](/first-question/tell-me-more-about-genomic-sequencing-and-genetic-tests.md)
+
 More comprehensive resources for understanding test results can be found [here](/where-can-i-find-more-resources.md)
 
