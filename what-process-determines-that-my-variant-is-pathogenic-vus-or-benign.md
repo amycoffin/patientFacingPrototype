@@ -1,4 +1,4 @@
-## What process determines that my variant is pathogenic, VUS, or benign?
+# What process determines that my variant is pathogenic, VUS, or benign?
 
 The process of determining the clinical significance of a variant is a little bit different, depending on testing companies. However, the basic steps are as follows:
 
